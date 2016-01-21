@@ -1,0 +1,1 @@
+geth --networkid 123 --genesis private-genesis.json --datadir ~/.ethereum_experiment --nodiscover --maxpeers 0 $1 $2
